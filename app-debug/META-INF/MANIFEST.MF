@@ -1,0 +1,957 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_45 (Sun Microsystems Inc.)
+
+Name: .classpath
+SHA1-Digest: uHGkBrMbhQ9eHXJR+cjjaP5pcr4=
+
+Name: .project
+SHA1-Digest: 0HesiQ7t1pWa5QUXoBd5ZuZ1J78=
+
+Name: AndroidManifest.xml
+SHA1-Digest: AcP2/CMjtS927EZT3W5oti7iyzo=
+
+Name: assets/jetty/D_HCP.html
+SHA1-Digest: 6QlKTRjLpRo0JPZ3Cx2JR257L4s=
+
+Name: assets/jetty/USER_Manual_en.pdf
+SHA1-Digest: PuI5qb34MF3/FFOZBFR6aJqjsgE=
+
+Name: assets/jetty/USER_Manual_zh.pdf
+SHA1-Digest: uRAXNNujcOwD1kglcyMhNrqIynE=
+
+Name: assets/jetty/chat.html
+SHA1-Digest: 2cL4dL9gGp1eHAwu5/cZDUiqN2s=
+
+Name: assets/jetty/confirm.html
+SHA1-Digest: BmdSIrB2dLximig7aNpJQ/1pQSY=
+
+Name: assets/jetty/css/common.css
+SHA1-Digest: c8dhooH56B2mDD/JpBNZKOHYv7A=
+
+Name: assets/jetty/css/content.lst
+SHA1-Digest: OSv3Y68mYhWjR/XJU7P4ClHneL4=
+
+Name: assets/jetty/css/layer.css
+SHA1-Digest: 9oyKQnxLBHsEIqgRisUzHsbDDEo=
+
+Name: assets/jetty/css/main.css
+SHA1-Digest: I4/lT8k6tjYPKycarWlBvyc0Mys=
+
+Name: assets/jetty/css/oldcommon.css
+SHA1-Digest: gUalSka5+infXMn8JahI0VdpPbQ=
+
+Name: assets/jetty/custom/buttonBF.jpg
+SHA1-Digest: pg7MqNqS/yTj9HG+2RKneO8yjHI=
+
+Name: assets/jetty/custom/buttonC0.jpg
+SHA1-Digest: VOKVyUTUarPDYOuywBT+HS6KO+8=
+
+Name: assets/jetty/custom/buttonC4.jpg
+SHA1-Digest: Mfj4K/4Hpn68jloJhuL+tUlUyLs=
+
+Name: assets/jetty/custom/buttonC6.jpg
+SHA1-Digest: GFU6fYXYpgaFpknQOn2xVbfO3Cw=
+
+Name: assets/jetty/custom/buttonCA.jpg
+SHA1-Digest: fuIPTVvLdS+ZR57ISpzffperoho=
+
+Name: assets/jetty/custom/buttonCC.jpg
+SHA1-Digest: Ic/vpIvfL2Hz1vUg+Uf72tFtuiA=
+
+Name: assets/jetty/custom/buttonCE.jpg
+SHA1-Digest: JoYWVdixycpOkl+mpzqmLra02FA=
+
+Name: assets/jetty/custom/buttonD0.jpg
+SHA1-Digest: 8IAasWUHzNs/GnN7P0FlLpwa13A=
+
+Name: assets/jetty/custom/buttonD2.jpg
+SHA1-Digest: yksrxPlIf/R8FHvQvZ9gNcE7JpM=
+
+Name: assets/jetty/custom/buttonD4.jpg
+SHA1-Digest: s3MhNC7JtyMT2ra+AwVsbTpofnA=
+
+Name: assets/jetty/custom/buttonD6.jpg
+SHA1-Digest: fMDqbXXXFjbynjycs8DxMq+C/1U=
+
+Name: assets/jetty/custom/buttonD8.jpg
+SHA1-Digest: hFAOQdhpB66MAMYki9RC8HAt2cs=
+
+Name: assets/jetty/custom/buttonD9.jpg
+SHA1-Digest: tqBwXwidOo/O0XMxFAdo2Z2+nUM=
+
+Name: assets/jetty/custom/buttonDB.jpg
+SHA1-Digest: EeIVBsDkhAwmihSAKumVpHrcIOw=
+
+Name: assets/jetty/custom/buttonDD.jpg
+SHA1-Digest: ijqfLk5bn+oWEsZrO5YM4cMVTjI=
+
+Name: assets/jetty/custom/buttonDF.jpg
+SHA1-Digest: UixbSrMGFXmYLSuZDo7pekXIVz8=
+
+Name: assets/jetty/custom/buttonF8.jpg
+SHA1-Digest: 5vxnWgMBNfu26f2G0zk9/yF9+ME=
+
+Name: assets/jetty/custom/default.min.css
+SHA1-Digest: na/LbSNHKtuQ+cn1W9nb1ZA5KVM=
+
+Name: assets/jetty/custom/highlight.min.js
+SHA1-Digest: M2Yei80xuxjOrqucBRMOGH/jFxI=
+
+Name: assets/jetty/deviceInformation.html
+SHA1-Digest: 60iUxlagdJBNKe6bPA02LswgwOU=
+
+Name: assets/jetty/deviceOperation.html
+SHA1-Digest: sp/MxsotqZc5a/JEgJoBHk76E+I=
+
+Name: assets/jetty/help.html
+SHA1-Digest: wK6TRrz6NWkiGN5HIESRpS9cJOY=
+
+Name: assets/jetty/img/battery.gif
+SHA1-Digest: hbTnfmGfT32NZmI+O4PWNaAKFWo=
+
+Name: assets/jetty/img/battery.png
+SHA1-Digest: YPOlq5hA0Sv53tUf/UfeQPFR6oo=
+
+Name: assets/jetty/img/chinese.gif
+SHA1-Digest: SePsUaf6gwTJukSbWaX2ix26sWQ=
+
+Name: assets/jetty/img/chinese1.gif
+SHA1-Digest: jQEFdlHApngID7p8I4oAZvRXn+w=
+
+Name: assets/jetty/img/content.lst
+SHA1-Digest: nGg8hEu8PI6ck0kpe9q7DUkBxtQ=
+
+Name: assets/jetty/img/dlg_t11.png
+SHA1-Digest: X7JUInGhUI2dQgGcmm3BVQwn8N4=
+
+Name: assets/jetty/img/dlg_t12.png
+SHA1-Digest: 7/DPnRkKqlz5AOomVsyGUYqQ7dU=
+
+Name: assets/jetty/img/dlg_t13.png
+SHA1-Digest: 6bH8rON3DlheHuM0aGXnCztjfO0=
+
+Name: assets/jetty/img/dlg_t21.png
+SHA1-Digest: hCvtFMjZnIieiKYJSjQg43PNDow=
+
+Name: assets/jetty/img/dlg_t23.png
+SHA1-Digest: F7zEWLyFgMJJvivpDkaCINs84js=
+
+Name: assets/jetty/img/dlg_t31.png
+SHA1-Digest: EPZ2OBGX6iMUdBabWs5NQ41CMOc=
+
+Name: assets/jetty/img/dlg_t32.png
+SHA1-Digest: ifWIoqAtSmK1bzs3N/DwnbCAckU=
+
+Name: assets/jetty/img/dlg_t33.png
+SHA1-Digest: Kd+conv+iLnM1Cp/zXH74abpMK8=
+
+Name: assets/jetty/img/droid.png
+SHA1-Digest: vIXo2psh3SE/R+8IP0eG8worZuo=
+
+Name: assets/jetty/img/end_page.jpg
+SHA1-Digest: 77neeJboxEeWeTcfI1qA6CJaCMw=
+
+Name: assets/jetty/img/header.jpg
+SHA1-Digest: d5xhSgtF6AlvDtj8juLF8BCsLVU=
+
+Name: assets/jetty/img/last_page.jpg
+SHA1-Digest: iTCPAtjjoidLdHWaRZZLF2jtrpM=
+
+Name: assets/jetty/img/loading.gif
+SHA1-Digest: kuEPXeEHzflaLvSRr3UlGm6l0iI=
+
+Name: assets/jetty/img/menu.jpg
+SHA1-Digest: HAI54nbo9LcPiiN+hKqbSqai1Og=
+
+Name: assets/jetty/img/next_page.jpg
+SHA1-Digest: 5Av8fw9GKVyWvocyc58oeOl+xsA=
+
+Name: assets/jetty/img/nobattery.png
+SHA1-Digest: sTBfXwPFyqjxAYREwyXnD+Oe0kU=
+
+Name: assets/jetty/img/progress.gif
+SHA1-Digest: 1UBRbTPTq+QQk6ct9wSVKHsPG2w=
+
+Name: assets/jetty/img/sprites.png
+SHA1-Digest: ww/K2Kbw8yyxWREU/oxFMONg+hk=
+
+Name: assets/jetty/img/table_line.png
+SHA1-Digest: PLY4Fxgdy57HMDXJHH3EZmChXHk=
+
+Name: assets/jetty/img/top_page.jpg
+SHA1-Digest: yhd4fuTWLHMApZyVc2bu93XY6oU=
+
+Name: assets/jetty/img/waitting.gif
+SHA1-Digest: lesamPJwhS6JwNaW+eYY849HOp8=
+
+Name: assets/jetty/img/xubox_ico0.png
+SHA1-Digest: mJIRF1V+piQAzyy6fgrCalLh7ag=
+
+Name: assets/jetty/img/xubox_title0.png
+SHA1-Digest: mBvqpKo5zcd7kQt7NT7aENE919s=
+
+Name: assets/jetty/index.html
+SHA1-Digest: d7uv+glzgZhyKlB+VSfaXr7wthg=
+
+Name: assets/jetty/js/D_HCP.js
+SHA1-Digest: tOe/Rt7h+jlg9XEcORneiVfIymE=
+
+Name: assets/jetty/js/deviceInformation.js
+SHA1-Digest: ay/bo+NUqym2OAy3QreY03xuBB4=
+
+Name: assets/jetty/js/deviceOperation.js
+SHA1-Digest: SMPFwlt+zYjCLddw02Z//YZl96c=
+
+Name: assets/jetty/js/index.js
+SHA1-Digest: PdL8Ms1yIb4fUW47nuWr6gKA+2o=
+
+Name: assets/jetty/js/main.js
+SHA1-Digest: oj3UkKUj90VE3fpVUvMJCwVjCSE=
+
+Name: assets/jetty/js/modifyPwd.js
+SHA1-Digest: 6mhiP3uLjThA7kaZFnopsdyFZIo=
+
+Name: assets/jetty/js/ms.js
+SHA1-Digest: xJ+y19nPq7xjp6re7so1XkVsNyU=
+
+Name: assets/jetty/js/netsel.js
+SHA1-Digest: dkGL9lRCEj2hb9h3OIZd6wmtGo0=
+
+Name: assets/jetty/js/plugins/jquery.js
+SHA1-Digest: BuhyMACIubqKCEJ9KO0O/N+cb/U=
+
+Name: assets/jetty/js/plugins/jquerysession.js
+SHA1-Digest: YKmZWqiQUm9kSyrhyUgAGo+2NlU=
+
+Name: assets/jetty/js/plugins/json2.js
+SHA1-Digest: OahAxZrppWWDRSqAO7Efq/+GmWc=
+
+Name: assets/jetty/js/plugins/layer.js
+SHA1-Digest: fae7FYnDHEc1fMUu+SkPQ2R/d5I=
+
+Name: assets/jetty/js/reboot-bootloader.js
+SHA1-Digest: OMswjuSuXhikjOhnO0l9UKUSqGM=
+
+Name: assets/jetty/js/sim.js
+SHA1-Digest: ngSXrwVV6qcTJdc68bnPQKPmCF0=
+
+Name: assets/jetty/js/status.js
+SHA1-Digest: C94UPbY7uAofWaR0BC55Bh2n1Bs=
+
+Name: assets/jetty/js/usbdebug.js
+SHA1-Digest: neXdwesTu06RhIbGUtSsLUiXaMM=
+
+Name: assets/jetty/js/utils/ajax.js
+SHA1-Digest: f6I3WgFnz8SI8S25xXbeXIrkcqw=
+
+Name: assets/jetty/js/utils/alert.js
+SHA1-Digest: 3axRygHFBWBLFq1z0USXwjJBuVM=
+
+Name: assets/jetty/js/utils/childmenu.js
+SHA1-Digest: 0zVZ4Wm5UjWtr7XIJqOWSbquHAI=
+
+Name: assets/jetty/js/utils/cookiesHandler.js
+SHA1-Digest: Jv43mnYXrEXZ5fbtB5d/KuVs97s=
+
+Name: assets/jetty/js/utils/jsonHandler.js
+SHA1-Digest: K+H+PggG7gwjcYsLZCZg+0KekC8=
+
+Name: assets/jetty/js/utils/languageswitch.js
+SHA1-Digest: bf5d+KhTMJi4tPYNlX/wqhJ4cXA=
+
+Name: assets/jetty/js/utils/smsHandler.js
+SHA1-Digest: Uslmmkha8ZOmYqGYX1jplOcG2zw=
+
+Name: assets/jetty/js/wifiSecurity.js
+SHA1-Digest: dVz0dXWOT4D3/CFcXy/MYC8Lg7g=
+
+Name: assets/jetty/js/wifiSetting.js
+SHA1-Digest: NPmnuZTnn9P7UWHueHGfbKNsuLA=
+
+Name: assets/jetty/js/wwanConfig.js
+SHA1-Digest: OotuyxKOq39WeNMCu0gFibJ4SA8=
+
+Name: assets/jetty/json/D_HCP.json
+SHA1-Digest: ND2oRRx4ne45RCxolmbQRQ5SgN4=
+
+Name: assets/jetty/json/content.lst
+SHA1-Digest: RcmuWyFoh0RYvlDbrthHjCUl+Ds=
+
+Name: assets/jetty/json/deviceInformation.json
+SHA1-Digest: N+i4x/JauK/V4Fc56rm05K3Eq3c=
+
+Name: assets/jetty/json/deviceOperation.json
+SHA1-Digest: wDzIFaLJqjzfvvHieo23FzCfjNs=
+
+Name: assets/jetty/json/help.json
+SHA1-Digest: tUuf1c6UIOvbE9+20q9NHHbPx/E=
+
+Name: assets/jetty/json/index.json
+SHA1-Digest: fsgnEQfCPOK3iZbhM2moMMuUNw4=
+
+Name: assets/jetty/json/main.json
+SHA1-Digest: uMqX+Y1QfX2p7cu4diVwhw8Sa5U=
+
+Name: assets/jetty/json/modifyPwd.json
+SHA1-Digest: 4jDHSDhcHDwD2MP74MQ43hclhnE=
+
+Name: assets/jetty/json/netsel.json
+SHA1-Digest: wIgf0t4cgBUAY4nmlg4g3WZIxdE=
+
+Name: assets/jetty/json/sim.json
+SHA1-Digest: FIPq9WNTx3hKheKW6ngWd+y1IzE=
+
+Name: assets/jetty/json/status.json
+SHA1-Digest: xNXsPmoqxGWBKzx9fnrPytI0V9I=
+
+Name: assets/jetty/json/wifiSecurity.json
+SHA1-Digest: zd0Te10QgGKEl/8+nmAVdpF/Mws=
+
+Name: assets/jetty/json/wifiSetting.json
+SHA1-Digest: 3jNxWfPlGdoO+9r7keqaFb00Fvw=
+
+Name: assets/jetty/json/wwanConfig.json
+SHA1-Digest: vqgz5vGdyXwvfh9NaHRUI9x2NHc=
+
+Name: assets/jetty/main.html
+SHA1-Digest: 8k03sPbe4pYGLU1t+Cc8gOvCq3U=
+
+Name: assets/jetty/modifyPwd.html
+SHA1-Digest: 4Gnzfb6ITXsfHkHWxbiCUVUH7q8=
+
+Name: assets/jetty/ms.html
+SHA1-Digest: kRnv9P0GgK2T8GIK673FMfDJtmw=
+
+Name: assets/jetty/netsel.html
+SHA1-Digest: j2DMsatTe8zWbjuCK5k3lL1T7UY=
+
+Name: assets/jetty/phonenet.html
+SHA1-Digest: KQ3XtXr9CeCaONOz+41a8uIbvXM=
+
+Name: assets/jetty/reboot-bootloader.html
+SHA1-Digest: uiifamM8UYbx6/89dDhphqI63dc=
+
+Name: assets/jetty/sim.html
+SHA1-Digest: 44IDT8yMN9q9tSnpfkRHRvqVzc4=
+
+Name: assets/jetty/static.html
+SHA1-Digest: HPKbeb2Ib0HTBN0Dthskc63d+Rw=
+
+Name: assets/jetty/status.html
+SHA1-Digest: q8cGsVvHG6POD8KKFA++ncJSZTI=
+
+Name: assets/jetty/usbdebug.html
+SHA1-Digest: Z6C7WCgV4XGuHzFO5LQVK0vtuaw=
+
+Name: assets/jetty/wifiSecurity.html
+SHA1-Digest: /TqblPuuTkg7kE/Q2yb+vSSRDko=
+
+Name: assets/jetty/wifiSetting.html
+SHA1-Digest: A++7BDGH29dlgq47cOBA+sd+OYM=
+
+Name: assets/jetty/wwanConfig.html
+SHA1-Digest: mjda8sPWzb1/XQ4uctM8pQbujSQ=
+
+Name: assets/jetty2/D_HCP.html
+SHA1-Digest: h8DiM8MHwzUmdqJCjeL1gbwvWXY=
+
+Name: assets/jetty2/MacFilter.html
+SHA1-Digest: BkeCl/Uy4WZStZZxT+xqixDYgwQ=
+
+Name: assets/jetty2/USER_Manual_en.pdf
+SHA1-Digest: PuI5qb34MF3/FFOZBFR6aJqjsgE=
+
+Name: assets/jetty2/USER_Manual_zh.pdf
+SHA1-Digest: uRAXNNujcOwD1kglcyMhNrqIynE=
+
+Name: assets/jetty2/chat.html
+SHA1-Digest: 2cL4dL9gGp1eHAwu5/cZDUiqN2s=
+
+Name: assets/jetty2/confirm.html
+SHA1-Digest: BmdSIrB2dLximig7aNpJQ/1pQSY=
+
+Name: assets/jetty2/css/common.css
+SHA1-Digest: 5Mu1TFzwyD3CBt65i3DGkL6LM4g=
+
+Name: assets/jetty2/css/content.lst
+SHA1-Digest: OSv3Y68mYhWjR/XJU7P4ClHneL4=
+
+Name: assets/jetty2/css/layer.css
+SHA1-Digest: 9oyKQnxLBHsEIqgRisUzHsbDDEo=
+
+Name: assets/jetty2/css/main.css
+SHA1-Digest: wE9A0gHbzPiSRjXwX3pkqkaqXIg=
+
+Name: assets/jetty2/css/oldcommon.css
+SHA1-Digest: gUalSka5+infXMn8JahI0VdpPbQ=
+
+Name: assets/jetty2/custom/buttonBF.jpg
+SHA1-Digest: pg7MqNqS/yTj9HG+2RKneO8yjHI=
+
+Name: assets/jetty2/custom/buttonC0.jpg
+SHA1-Digest: VOKVyUTUarPDYOuywBT+HS6KO+8=
+
+Name: assets/jetty2/custom/buttonC4.jpg
+SHA1-Digest: Mfj4K/4Hpn68jloJhuL+tUlUyLs=
+
+Name: assets/jetty2/custom/buttonC6.jpg
+SHA1-Digest: GFU6fYXYpgaFpknQOn2xVbfO3Cw=
+
+Name: assets/jetty2/custom/buttonCA.jpg
+SHA1-Digest: fuIPTVvLdS+ZR57ISpzffperoho=
+
+Name: assets/jetty2/custom/buttonCC.jpg
+SHA1-Digest: Ic/vpIvfL2Hz1vUg+Uf72tFtuiA=
+
+Name: assets/jetty2/custom/buttonCE.jpg
+SHA1-Digest: JoYWVdixycpOkl+mpzqmLra02FA=
+
+Name: assets/jetty2/custom/buttonD0.jpg
+SHA1-Digest: 8IAasWUHzNs/GnN7P0FlLpwa13A=
+
+Name: assets/jetty2/custom/buttonD2.jpg
+SHA1-Digest: yksrxPlIf/R8FHvQvZ9gNcE7JpM=
+
+Name: assets/jetty2/custom/buttonD4.jpg
+SHA1-Digest: s3MhNC7JtyMT2ra+AwVsbTpofnA=
+
+Name: assets/jetty2/custom/buttonD6.jpg
+SHA1-Digest: fMDqbXXXFjbynjycs8DxMq+C/1U=
+
+Name: assets/jetty2/custom/buttonD8.jpg
+SHA1-Digest: hFAOQdhpB66MAMYki9RC8HAt2cs=
+
+Name: assets/jetty2/custom/buttonD9.jpg
+SHA1-Digest: tqBwXwidOo/O0XMxFAdo2Z2+nUM=
+
+Name: assets/jetty2/custom/buttonDB.jpg
+SHA1-Digest: EeIVBsDkhAwmihSAKumVpHrcIOw=
+
+Name: assets/jetty2/custom/buttonDD.jpg
+SHA1-Digest: ijqfLk5bn+oWEsZrO5YM4cMVTjI=
+
+Name: assets/jetty2/custom/buttonDF.jpg
+SHA1-Digest: UixbSrMGFXmYLSuZDo7pekXIVz8=
+
+Name: assets/jetty2/custom/buttonF8.jpg
+SHA1-Digest: 5vxnWgMBNfu26f2G0zk9/yF9+ME=
+
+Name: assets/jetty2/custom/default.min.css
+SHA1-Digest: na/LbSNHKtuQ+cn1W9nb1ZA5KVM=
+
+Name: assets/jetty2/custom/highlight.min.js
+SHA1-Digest: M2Yei80xuxjOrqucBRMOGH/jFxI=
+
+Name: assets/jetty2/deviceInformation.html
+SHA1-Digest: 0W21pSjYj4AFh2WWFhFKTMVALZ4=
+
+Name: assets/jetty2/deviceOperation.html
+SHA1-Digest: sp/MxsotqZc5a/JEgJoBHk76E+I=
+
+Name: assets/jetty2/help.html
+SHA1-Digest: wK6TRrz6NWkiGN5HIESRpS9cJOY=
+
+Name: assets/jetty2/img/Tab_button_off.gif
+SHA1-Digest: OTJEaf+k5tv7Yi7s8HW8d8dcWpo=
+
+Name: assets/jetty2/img/Tab_button_on.gif
+SHA1-Digest: jykQg4d3DcmyhzcikUev6/uLmpw=
+
+Name: assets/jetty2/img/battery.gif
+SHA1-Digest: hbTnfmGfT32NZmI+O4PWNaAKFWo=
+
+Name: assets/jetty2/img/battery.png
+SHA1-Digest: YPOlq5hA0Sv53tUf/UfeQPFR6oo=
+
+Name: assets/jetty2/img/chinese.gif
+SHA1-Digest: SePsUaf6gwTJukSbWaX2ix26sWQ=
+
+Name: assets/jetty2/img/chinese1.gif
+SHA1-Digest: jQEFdlHApngID7p8I4oAZvRXn+w=
+
+Name: assets/jetty2/img/content.lst
+SHA1-Digest: nGg8hEu8PI6ck0kpe9q7DUkBxtQ=
+
+Name: assets/jetty2/img/dlg_t11.png
+SHA1-Digest: X7JUInGhUI2dQgGcmm3BVQwn8N4=
+
+Name: assets/jetty2/img/dlg_t12.png
+SHA1-Digest: 7/DPnRkKqlz5AOomVsyGUYqQ7dU=
+
+Name: assets/jetty2/img/dlg_t13.png
+SHA1-Digest: 6bH8rON3DlheHuM0aGXnCztjfO0=
+
+Name: assets/jetty2/img/dlg_t21.png
+SHA1-Digest: hCvtFMjZnIieiKYJSjQg43PNDow=
+
+Name: assets/jetty2/img/dlg_t23.png
+SHA1-Digest: F7zEWLyFgMJJvivpDkaCINs84js=
+
+Name: assets/jetty2/img/dlg_t31.png
+SHA1-Digest: EPZ2OBGX6iMUdBabWs5NQ41CMOc=
+
+Name: assets/jetty2/img/dlg_t32.png
+SHA1-Digest: ifWIoqAtSmK1bzs3N/DwnbCAckU=
+
+Name: assets/jetty2/img/dlg_t33.png
+SHA1-Digest: Kd+conv+iLnM1Cp/zXH74abpMK8=
+
+Name: assets/jetty2/img/droid.png
+SHA1-Digest: vIXo2psh3SE/R+8IP0eG8worZuo=
+
+Name: assets/jetty2/img/end_page.jpg
+SHA1-Digest: 77neeJboxEeWeTcfI1qA6CJaCMw=
+
+Name: assets/jetty2/img/header.jpg
+SHA1-Digest: pCCRdAfguB8FAUCQ5iIHLQzTNoM=
+
+Name: assets/jetty2/img/header_bg.png
+SHA1-Digest: WB3TKItKomHLc/6pxYjKtH0A4MA=
+
+Name: assets/jetty2/img/last_page.jpg
+SHA1-Digest: iTCPAtjjoidLdHWaRZZLF2jtrpM=
+
+Name: assets/jetty2/img/loading.gif
+SHA1-Digest: kuEPXeEHzflaLvSRr3UlGm6l0iI=
+
+Name: assets/jetty2/img/login-bg.png
+SHA1-Digest: Xjx7OIZtOWslSwT12Sz9QMFHz9E=
+
+Name: assets/jetty2/img/menu.jpg
+SHA1-Digest: HAI54nbo9LcPiiN+hKqbSqai1Og=
+
+Name: assets/jetty2/img/next_page.jpg
+SHA1-Digest: 5Av8fw9GKVyWvocyc58oeOl+xsA=
+
+Name: assets/jetty2/img/nobattery.png
+SHA1-Digest: sTBfXwPFyqjxAYREwyXnD+Oe0kU=
+
+Name: assets/jetty2/img/progress.gif
+SHA1-Digest: 1UBRbTPTq+QQk6ct9wSVKHsPG2w=
+
+Name: assets/jetty2/img/sprites.png
+SHA1-Digest: 93ASMorEYB2/5cwPoFV35OO4k2I=
+
+Name: assets/jetty2/img/table_line.png
+SHA1-Digest: PLY4Fxgdy57HMDXJHH3EZmChXHk=
+
+Name: assets/jetty2/img/top_page.jpg
+SHA1-Digest: yhd4fuTWLHMApZyVc2bu93XY6oU=
+
+Name: assets/jetty2/img/waitting.gif
+SHA1-Digest: lesamPJwhS6JwNaW+eYY849HOp8=
+
+Name: assets/jetty2/img/xubox_ico0.png
+SHA1-Digest: mJIRF1V+piQAzyy6fgrCalLh7ag=
+
+Name: assets/jetty2/img/xubox_title0.png
+SHA1-Digest: mBvqpKo5zcd7kQt7NT7aENE919s=
+
+Name: assets/jetty2/index.html
+SHA1-Digest: d7uv+glzgZhyKlB+VSfaXr7wthg=
+
+Name: assets/jetty2/js/D_HCP.js
+SHA1-Digest: tOe/Rt7h+jlg9XEcORneiVfIymE=
+
+Name: assets/jetty2/js/MacFilter.js
+SHA1-Digest: 396WFdsjsafRUo/c/j7UrAvI5Ic=
+
+Name: assets/jetty2/js/deviceInformation.js
+SHA1-Digest: cT2n8MluWYPK5aUkruGmEHcTDe8=
+
+Name: assets/jetty2/js/deviceOperation.js
+SHA1-Digest: BajjJBvQJqKBfLXIVtrIfWNFsPg=
+
+Name: assets/jetty2/js/index.js
+SHA1-Digest: PdL8Ms1yIb4fUW47nuWr6gKA+2o=
+
+Name: assets/jetty2/js/main.js
+SHA1-Digest: sCH7Q6Gjjz43u7n47+BRv4+drVs=
+
+Name: assets/jetty2/js/modifyPwd.js
+SHA1-Digest: 6mhiP3uLjThA7kaZFnopsdyFZIo=
+
+Name: assets/jetty2/js/ms.js
+SHA1-Digest: xJ+y19nPq7xjp6re7so1XkVsNyU=
+
+Name: assets/jetty2/js/netsel.js
+SHA1-Digest: dkGL9lRCEj2hb9h3OIZd6wmtGo0=
+
+Name: assets/jetty2/js/plugins/jquery.js
+SHA1-Digest: BuhyMACIubqKCEJ9KO0O/N+cb/U=
+
+Name: assets/jetty2/js/plugins/jquerysession.js
+SHA1-Digest: YKmZWqiQUm9kSyrhyUgAGo+2NlU=
+
+Name: assets/jetty2/js/plugins/json2.js
+SHA1-Digest: OahAxZrppWWDRSqAO7Efq/+GmWc=
+
+Name: assets/jetty2/js/plugins/layer.js
+SHA1-Digest: fae7FYnDHEc1fMUu+SkPQ2R/d5I=
+
+Name: assets/jetty2/js/reboot-bootloader.js
+SHA1-Digest: OMswjuSuXhikjOhnO0l9UKUSqGM=
+
+Name: assets/jetty2/js/sim.js
+SHA1-Digest: IJUleJY7FVyo2DhPQx9moJpsy+o=
+
+Name: assets/jetty2/js/status.js
+SHA1-Digest: HcAVFuu6Ng6UPm0t7JKPrDliDGQ=
+
+Name: assets/jetty2/js/usbdebug.js
+SHA1-Digest: neXdwesTu06RhIbGUtSsLUiXaMM=
+
+Name: assets/jetty2/js/utils/ajax.js
+SHA1-Digest: h8U/xqp9GAkhcCwE6fGRMDusqQs=
+
+Name: assets/jetty2/js/utils/alert.js
+SHA1-Digest: 3axRygHFBWBLFq1z0USXwjJBuVM=
+
+Name: assets/jetty2/js/utils/childmenu.js
+SHA1-Digest: 0zVZ4Wm5UjWtr7XIJqOWSbquHAI=
+
+Name: assets/jetty2/js/utils/cookiesHandler.js
+SHA1-Digest: Jv43mnYXrEXZ5fbtB5d/KuVs97s=
+
+Name: assets/jetty2/js/utils/jsonHandler.js
+SHA1-Digest: K+H+PggG7gwjcYsLZCZg+0KekC8=
+
+Name: assets/jetty2/js/utils/languageswitch.js
+SHA1-Digest: bf5d+KhTMJi4tPYNlX/wqhJ4cXA=
+
+Name: assets/jetty2/js/utils/smsHandler.js
+SHA1-Digest: Uslmmkha8ZOmYqGYX1jplOcG2zw=
+
+Name: assets/jetty2/js/wifiSecurity.js
+SHA1-Digest: +HQwiEyWI+dxMuFrS6HjgQrOaww=
+
+Name: assets/jetty2/js/wifiSetting.js
+SHA1-Digest: XtVKa/L+pTfqSHHJLtDmLdKmB9c=
+
+Name: assets/jetty2/js/wwanConfig.js
+SHA1-Digest: OotuyxKOq39WeNMCu0gFibJ4SA8=
+
+Name: assets/jetty2/json/D_HCP.json
+SHA1-Digest: ND2oRRx4ne45RCxolmbQRQ5SgN4=
+
+Name: assets/jetty2/json/MacFilter.json
+SHA1-Digest: QU5nQ3ty4kELTdq4ZKc/sNAF2Ww=
+
+Name: assets/jetty2/json/content.lst
+SHA1-Digest: RcmuWyFoh0RYvlDbrthHjCUl+Ds=
+
+Name: assets/jetty2/json/deviceInformation.json
+SHA1-Digest: mFFBqqlSfnosyiRO5uFnJ4C1P70=
+
+Name: assets/jetty2/json/deviceOperation.json
+SHA1-Digest: wDzIFaLJqjzfvvHieo23FzCfjNs=
+
+Name: assets/jetty2/json/help.json
+SHA1-Digest: tUuf1c6UIOvbE9+20q9NHHbPx/E=
+
+Name: assets/jetty2/json/index.json
+SHA1-Digest: ozd+3VXMR267cN008wxnr1tdoU8=
+
+Name: assets/jetty2/json/main.json
+SHA1-Digest: ZZrVD8K3s7Pq0h/vN3mOi5FeavQ=
+
+Name: assets/jetty2/json/modifyPwd.json
+SHA1-Digest: 4jDHSDhcHDwD2MP74MQ43hclhnE=
+
+Name: assets/jetty2/json/netsel.json
+SHA1-Digest: wIgf0t4cgBUAY4nmlg4g3WZIxdE=
+
+Name: assets/jetty2/json/sim.json
+SHA1-Digest: i7y6aHQlLuyQo580sRHW8yN2eQ8=
+
+Name: assets/jetty2/json/status.json
+SHA1-Digest: JwQboNW/A1ybW6W+R+D1mI2p5kQ=
+
+Name: assets/jetty2/json/wifiSecurity.json
+SHA1-Digest: zd0Te10QgGKEl/8+nmAVdpF/Mws=
+
+Name: assets/jetty2/json/wifiSetting.json
+SHA1-Digest: JAf4QCMj4K30YWximWlEon4dPJ8=
+
+Name: assets/jetty2/json/wwanConfig.json
+SHA1-Digest: vqgz5vGdyXwvfh9NaHRUI9x2NHc=
+
+Name: assets/jetty2/main.html
+SHA1-Digest: r6hMKplvozJH33JuA1ENjrZVdgI=
+
+Name: assets/jetty2/modifyPwd.html
+SHA1-Digest: wiwifqL7C5hLjtdxFIleBDqeh5w=
+
+Name: assets/jetty2/ms.html
+SHA1-Digest: TA3+pl0UNO2jSN/zK6TAFvAPvJI=
+
+Name: assets/jetty2/netsel.html
+SHA1-Digest: WP/GPqk0V/YghC5KObCsDlLgJHI=
+
+Name: assets/jetty2/phonenet.html
+SHA1-Digest: KQ3XtXr9CeCaONOz+41a8uIbvXM=
+
+Name: assets/jetty2/reboot-bootloader.html
+SHA1-Digest: uiifamM8UYbx6/89dDhphqI63dc=
+
+Name: assets/jetty2/sim.html
+SHA1-Digest: Vxz6KPsXChz8paxh4x3DH1tKtAY=
+
+Name: assets/jetty2/static.html
+SHA1-Digest: HPKbeb2Ib0HTBN0Dthskc63d+Rw=
+
+Name: assets/jetty2/status.html
+SHA1-Digest: 68ToDXnTBB8gEKqF3ggkFQhEA8w=
+
+Name: assets/jetty2/usbdebug.html
+SHA1-Digest: Z6C7WCgV4XGuHzFO5LQVK0vtuaw=
+
+Name: assets/jetty2/wifiSecurity.html
+SHA1-Digest: CfUF0hCP8KIKx0Jqkiu6aOl4Kas=
+
+Name: assets/jetty2/wifiSetting.html
+SHA1-Digest: 40oBlm1APC6UL20luAnheyerpl0=
+
+Name: assets/jetty2/wwanConfig.html
+SHA1-Digest: pvxzhe5NJFxG8dSzYWrLuuEQwlg=
+
+Name: classes.dex
+SHA1-Digest: qzBn69HCleQWV+Zq3b0xAT8s0Cw=
+
+Name: google/protobuf/any.proto
+SHA1-Digest: hLFSHzZ94lTcuk1MT+ucoMYnMZ8=
+
+Name: google/protobuf/api.proto
+SHA1-Digest: ag5gdecFVUvePVAyk5b1eb28E4c=
+
+Name: google/protobuf/compiler/plugin.proto
+SHA1-Digest: f+FRxKMaWTEKpcc6bn/ZAgOGWJ4=
+
+Name: google/protobuf/descriptor.proto
+SHA1-Digest: dWZ6X79QZjp53Tj9l9eKdOVh0XY=
+
+Name: google/protobuf/duration.proto
+SHA1-Digest: rLvz19Xu43sJl5lJaYu9k98YrHU=
+
+Name: google/protobuf/empty.proto
+SHA1-Digest: isRfIj47ozxUkch+Ubr98lFD+d8=
+
+Name: google/protobuf/field_mask.proto
+SHA1-Digest: rIvCzQqQXFCNU/a5Fxyi6MHNQjg=
+
+Name: google/protobuf/source_context.proto
+SHA1-Digest: KOwtU+x+DY/1NT16Lak+M2o63e4=
+
+Name: google/protobuf/struct.proto
+SHA1-Digest: XA8J1JD1hH0RuYYiADYxTumKGt8=
+
+Name: google/protobuf/timestamp.proto
+SHA1-Digest: zLxqy/Z9hNYPZmr+hL9qu/yc4E0=
+
+Name: google/protobuf/type.proto
+SHA1-Digest: Z2vadnZoAGSjBAxHNLVTL5W5cAs=
+
+Name: google/protobuf/wrappers.proto
+SHA1-Digest: AdNadwQ0YVXaQMThfhSNJS5gbYw=
+
+Name: javax/servlet/LocalStrings.properties
+SHA1-Digest: kbQR8J9BkCPGRsVEz1x1aePFI4k=
+
+Name: javax/servlet/LocalStrings_fr.properties
+SHA1-Digest: 1Zyn+Wxj6GF3LvicAyH2z1/MrZg=
+
+Name: javax/servlet/LocalStrings_ja.properties
+SHA1-Digest: vXGrVtdLPt6cUa6UcTkTXn/zudA=
+
+Name: javax/servlet/http/LocalStrings.properties
+SHA1-Digest: i8Pnu1vEmoGCMnCEODMbmGhrDm0=
+
+Name: javax/servlet/http/LocalStrings_es.properties
+SHA1-Digest: hrp6New1we4qIuoN6Y7zzujj69Y=
+
+Name: javax/servlet/http/LocalStrings_fr.properties
+SHA1-Digest: Cy2ySB+YB2oiLDx4rYMxsw4Jb14=
+
+Name: javax/servlet/http/LocalStrings_ja.properties
+SHA1-Digest: JXDf2GTPo6lJ+yqbmtYaASGyXfU=
+
+Name: javax/servlet/resources/XMLSchema.dtd
+SHA1-Digest: /2Ru0Z5jaQLZsqdmfVpYwe+j+7A=
+
+Name: javax/servlet/resources/datatypes.dtd
+SHA1-Digest: b3g8aTplzCNiT48xuEcInWJIbTE=
+
+Name: javax/servlet/resources/j2ee_1_4.xsd
+SHA1-Digest: /d6ahGnIxKlknmw6GvKeGSfxAuk=
+
+Name: javax/servlet/resources/j2ee_web_services_1_1.xsd
+SHA1-Digest: UBK0xiqunGiVnPYcfNSMI9pOLN4=
+
+Name: javax/servlet/resources/j2ee_web_services_client_1_1.xsd
+SHA1-Digest: +81H7l+YjETE1c+/H5qRNImG1as=
+
+Name: javax/servlet/resources/javaee_5.xsd
+SHA1-Digest: 9s8R5xqac5k/685s9EwvGcQLjGQ=
+
+Name: javax/servlet/resources/javaee_6.xsd
+SHA1-Digest: P6cJWs0PVA0RHwuaVo29p3B1zCY=
+
+Name: javax/servlet/resources/javaee_web_services_1_2.xsd
+SHA1-Digest: FmrcWddBmZZCYha5JUUhjJvtZu8=
+
+Name: javax/servlet/resources/javaee_web_services_1_3.xsd
+SHA1-Digest: 4yXnN6Rswr3t7K7UMGEyR2jM2Vs=
+
+Name: javax/servlet/resources/javaee_web_services_client_1_2.xsd
+SHA1-Digest: +f3zpjC2Si/5lJdGvuAsG50i6po=
+
+Name: javax/servlet/resources/javaee_web_services_client_1_3.xsd
+SHA1-Digest: OOn+9/vxDWsryq0qr9WNTbQObvM=
+
+Name: javax/servlet/resources/web-app_2_2.dtd
+SHA1-Digest: hB5nAGV/3arP60r0KgzvdVjp/kM=
+
+Name: javax/servlet/resources/web-app_2_3.dtd
+SHA1-Digest: 0Xz4QXp8jI+EjrjNZclxAuVGV0o=
+
+Name: javax/servlet/resources/web-app_2_4.xsd
+SHA1-Digest: AYyDMA3X68fBnHvLnTM6j8G0leI=
+
+Name: javax/servlet/resources/web-app_2_5.xsd
+SHA1-Digest: smkcALWmW2RgRS5fpx60qhNqN94=
+
+Name: javax/servlet/resources/web-app_3_0.xsd
+SHA1-Digest: iKqk63YOre9X8+n1fQwRTPmshWg=
+
+Name: javax/servlet/resources/web-common_3_0.xsd
+SHA1-Digest: fQX3lNiePd8sjwTQmDopwSPa1Mw=
+
+Name: javax/servlet/resources/web-fragment_3_0.xsd
+SHA1-Digest: 9vVTBdBkYenVSzo/RWD/7yCuP+Y=
+
+Name: javax/servlet/resources/xml.xsd
+SHA1-Digest: jpEOb2r1A1MfJ495axauVoFqbl4=
+
+Name: jetty-dir.css
+SHA1-Digest: 0fTNMJSSqgcyAjQfpBS9v/f5g9c=
+
+Name: org/apache/http/version.properties
+SHA1-Digest: ORrsBNkY/fnu4eI23qv2ICELLFE=
+
+Name: org/eclipse/jetty/favicon.ico
+SHA1-Digest: cRUhA6ENfShwQf9zSllBtY4JlYE=
+
+Name: org/eclipse/jetty/http/encoding.properties
+SHA1-Digest: 1gRUAXJhtlQf2yI0+f2AzXSO3Go=
+
+Name: org/eclipse/jetty/http/mime.properties
+SHA1-Digest: gHtKCH1fJPVICdzywrDDXAl1HbM=
+
+Name: org/eclipse/jetty/http/useragents
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: org/eclipse/jetty/server/handler/jmx/AbstractHandler-mbean.prope
+ rties
+SHA1-Digest: zRSlKPQ+CgU9mCBF6hQ5vxV+tXw=
+
+Name: org/eclipse/jetty/server/handler/jmx/ContextHandler-mbean.proper
+ ties
+SHA1-Digest: FXyNsWNSHNlmn16xuH5a6BzQC80=
+
+Name: org/eclipse/jetty/server/handler/jmx/ContextHandlerCollection-mb
+ ean.properties
+SHA1-Digest: zPEVD3l5kCieceCNb7wbbvapunc=
+
+Name: org/eclipse/jetty/server/handler/jmx/HandlerCollection-mbean.pro
+ perties
+SHA1-Digest: PHb0GxlQcQcWTfpPmB1BUCEW4v4=
+
+Name: org/eclipse/jetty/server/handler/jmx/HandlerWrapper-mbean.proper
+ ties
+SHA1-Digest: fP3QsargZbNNwoLQ5JyRVz7zZU0=
+
+Name: org/eclipse/jetty/server/handler/jmx/StatisticsHandler-mbean.pro
+ perties
+SHA1-Digest: 8q3ge1QoOt5IkP0TaIdzfnFw1v0=
+
+Name: org/eclipse/jetty/server/jmx/AbstractConnector-mbean.properties
+SHA1-Digest: ibUvnkfqnaHg6oE+PDTYKkDHwLw=
+
+Name: org/eclipse/jetty/server/jmx/Connector-mbean.properties
+SHA1-Digest: 3da4NinwMg9jL/a8Tvk7qn7RhQY=
+
+Name: org/eclipse/jetty/server/jmx/Handler-mbean.properties
+SHA1-Digest: hHAj7sSIT0otepI5DPa6+9gevyM=
+
+Name: org/eclipse/jetty/server/jmx/HandlerContainer-mbean.properties
+SHA1-Digest: zAc5sdEwJJjIJr+cjxb44lVp7rs=
+
+Name: org/eclipse/jetty/server/jmx/NCSARequestLog-mbean.properties
+SHA1-Digest: irpYktuqYZdaZhn0gFHnypmde8w=
+
+Name: org/eclipse/jetty/server/jmx/Server-mbean.properties
+SHA1-Digest: lm3yr70qOt4FReNU3MIzpF0zqhU=
+
+Name: org/eclipse/jetty/server/nio/jmx/SelectChannelConnector-mbean.pr
+ operties
+SHA1-Digest: z4eCXcTyMPysIwqwQNs08e/+Sho=
+
+Name: org/eclipse/jetty/server/session/jmx/AbstractSessionManager-mbea
+ n.properties
+SHA1-Digest: k/cY9hJsC21VXVdYCBgRptP6NgQ=
+
+Name: org/eclipse/jetty/servlet/jmx/FilterMapping-mbean.properties
+SHA1-Digest: qTMwSnAXvQoGTo/gXm45oWGH7tE=
+
+Name: org/eclipse/jetty/servlet/jmx/Holder-mbean.properties
+SHA1-Digest: CM2EOtyXduiAq5+D/gt1omgVbRo=
+
+Name: org/eclipse/jetty/servlet/jmx/ServletContextHandler-mbean.proper
+ ties
+SHA1-Digest: JFASW4G8fp7ExWiZCIM7PIt/PY0=
+
+Name: org/eclipse/jetty/servlet/jmx/ServletHandler-mbean.properties
+SHA1-Digest: YPBlM0IDKbUj0AiiLTtMwaNhHt0=
+
+Name: org/eclipse/jetty/servlet/jmx/ServletHolder-mbean.properties
+SHA1-Digest: KXhKrh99pXQNaF9rpy0gkPDTZmY=
+
+Name: org/eclipse/jetty/servlet/jmx/ServletMapping-mbean.properties
+SHA1-Digest: zV2Nb9CEZ58OKES8GxKobsmGXpU=
+
+Name: org/eclipse/jetty/webapp/jmx/WebAppContext-mbean.properties
+SHA1-Digest: cFeYHM9vn4c78PBAM7fL+GSfZpQ=
+
+Name: org/eclipse/jetty/webapp/webdefault.xml
+SHA1-Digest: p+CkYELP9awv04TjcuNV3lEjWZg=
+
+Name: org/eclipse/jetty/xml/configure_6_0.dtd
+SHA1-Digest: EDRcifawlu0nW0OG4yQRKAo4a64=
+
+Name: org/eclipse/jetty/xml/configure_7_6.dtd
+SHA1-Digest: XnNXFnm3C/7KYvuARTgduaepysw=
+
+Name: plugin.properties
+SHA1-Digest: zd4uJoaIud59TWEQ31aKlJi0tus=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: e6c440zbcs2Xoe0CriGlxYUlRyE=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: MpuQ/ySbnPpPyqXCyrpOiPQFBzM=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: oCBPDQIpHU1Wl65c/l1IW6AflH4=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: WnhvN02CrOvUKrdrkocGVhChaow=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: dTgnQhEvZiHOz5pEOjjUvpvoNxE=
+
+Name: res/menu/main.xml
+SHA1-Digest: c7kmJXa8B4J51i1TU32L+XafeoY=
+
+Name: resources.arsc
+SHA1-Digest: 4wftI6ZvUfZaXxTTvW+e17W0eHU=
+

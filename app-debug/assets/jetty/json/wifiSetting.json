@@ -1,0 +1,19 @@
+{
+    "WI-FI Setting" : "WI-FI 设置",
+    "DISABLED" : "关闭",
+    "ENABLED" : "使能",
+    "MAC" : "MAC地址",
+    "SSID Hidden" : "SSID 隐藏",
+    "TRUE" : "是",
+    "FALSE" : "否",
+    "Mode" : "模式",
+    "MaxSta" : "最大连接数",
+    "ClientCount" : "连接用户数量",
+    "Change Wi-Fi Settings" : " 保  存 ",
+    "( After changing settings , the WIFI will restart automatically ! )" : "( 修改 Wi-Fi 设置后,WIFI将会自动重启! )",
+    "WI-FI RESTART" : "WI-FI 重启",
+    "WI-FI Module" : "WI-FI 模块",
+    "Status" : "状态",
+    "RESTART" : " 重  启 ",
+    "Setting WIFI,please wait" : "正在设置WIFI,请等待 "
+}

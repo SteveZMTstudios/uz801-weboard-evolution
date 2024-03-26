@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>需要确认操作</title>
+<script>
+// JavaScript 代码将会在这里插入
+</script>
+<style>
+  #message {
+    color: red;
+  }
+</style>
+
+</head>
+<body>
+<div id="message"></div>
+<input type="password" id="confirmInput" placeholder="输入 'yes' 确认您的操作。">
+<br>
+<button id="backButton">返回</button>
+
+<button id="confirmButton">确认</button>
+
+<script>
+// 解析URL查询参数
+function getQueryVariable(variable) {
+    var query = window.location.search.substring(1);
+    var vars = query.split('&');
+    for (var i = 0; i < vars.length; i++) {
+        var pair = vars[i].split('=');
+        if (pair[0] == variable) {
+            return pair[1];
+        }
+    }
+    return false;
+}
+
+// 页面重定向
+function redirectToPage(page){
+    window.location.href = page;
+}
+
+// 当页面加载完毕时，执行此功能
+document.addEventListener('DOMContentLoaded', function() {
+    var actionType = getQueryVariable('url');
+    
+    // 根据URL参数，设置对应的信息文本
+    var messageElement = document.getElementById('message');
+    switch (actionType) {
+        case 'usbdbg':
+            messageElement.textContent = "设备将重启并打开USB调试。";
+            break;
+        case 'rebootbl':
+            messageElement.textContent = "设备将重启到引导加载程序，设备将不会工作！\n除非您知道自己在做什么，否则您应该回到上一页面。";
+            break;
+        default:
+            messageElement.textContent = "无效的操作类型。";
+            break;
+    }
+    // 为返回按钮添加事件监听器
+var backButton = document.getElementById('backButton');
+backButton.addEventListener('click', function() {
+    window.history.back(); // 使用浏览器的历史记录来返回上一页
+});
+
+
+    // 添加事件监听器
+    var confirmButton = document.getElementById('confirmButton');
+    confirmButton.addEventListener('click', function() {
+        var confirmInput = document.getElementById('confirmInput');
+        if (confirmInput.value.toLowerCase() === 'yes') {
+            switch (actionType) {
+                case 'usbdbg':
+                    redirectToPage('usbdebug.html');
+                    break;
+                case 'rebootbl':
+                    redirectToPage('reboot-bootloader.html');
+                    break;
+                default:
+                    alert('无效的确认操作！');
+                    break;
+            }
+        } else {
+            alert('输入错误，没有执行任何修改。');
+                setTimeout(function() { // 使用setTimeout来延迟执行返回操作
+        window.history.back(); // 返回上一页
+    }, 2000); // 设置一个2秒的延迟，让用户有时间阅读提示信息
+
+        }
+    });
+});
+</script>
+
+</body>
+</html>
