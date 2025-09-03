@@ -1,3 +1,0 @@
-glob "*.gif" mime image/gif
-glob "*.jpg" mime image/jpeg
-glob "*.png" mime image/png

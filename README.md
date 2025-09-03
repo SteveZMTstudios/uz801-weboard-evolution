@@ -1,10 +1,5 @@
 # uz801 主页进化
 替换uz801那个纸糊的密码，进化成更有用的控制面板
-```
-NOTICE: This branch is main branch.
-If you want to get modified web file then switch to patch_only branch.
-
-```
 
 ## 使用方法
 将MifiService.apk替换到/system/priv-app中或者直接安装。
