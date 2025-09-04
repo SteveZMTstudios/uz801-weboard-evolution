@@ -43,6 +43,7 @@ function init() {
 
         if (flag == "1") {//正确
             var result = data.results[0];
+            console.log(result);
             //保存需要的数据
             $("#imei").html(result.imei);
             $("#FWversion").html(result.fwversion);

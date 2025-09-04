@@ -1,1 +1,89 @@
-<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>操作确认</title><link rel="stylesheet" href="css/mdui.min.css"><style>body{margin:0;font-family:Roboto,'Noto Sans SC',sans-serif;background:0 0}.wrap{padding:16px 20px 24px}h1{font-size:18px;margin:0 0 12px;font-weight:500}p{margin:0 0 16px;line-height:1.5}.danger{color:#d32f2f;font-weight:500}form{display:flex;flex-direction:column;gap:12px}.tips{font-size:12px;color:#666}.actions{display:flex;gap:12px}.actions .mdui-btn{flex:1}</style></head><body><div class="wrap"><h1 id="title">操作确认</h1><p id="desc"></p><form id="confirmForm" onsubmit="return!1"><div class="mdui-textfield mdui-textfield-floating-label" id="inputField"><label class="mdui-textfield-label">输入 yes 以继续</label> <input class="mdui-textfield-input" type="password" id="confirmInput" autocomplete="off"><div class="mdui-textfield-error">请输入 yes</div></div><div class="actions"><button type="button" id="confirmButton" class="mdui-btn mdui-ripple mdui-color-red">确认</button></div><div class="tips" id="extraTips"></div></form></div><script>function qs(name){const urlSearch=window.location.search.substring(1).split("&");for(const kv of urlSearch){const[k,v]=kv.split("=");if(k===name)return decodeURIComponent(v||"")}return""}function redirect(page){window.location.href=page}const action=qs("url"),embedded="1"===qs("embedded"),titleEl=document.getElementById("title"),descEl=document.getElementById("desc"),tipsEl=document.getElementById("extraTips"),confirmInput=document.getElementById("confirmInput");let targetPage="";"usbdbg"===action?(titleEl.textContent="启用 USB 调试",descEl.innerHTML='设备将<span class="danger">重启</span>并打开 USB 调试功能。继续之前请确保您了解 ADB 操作。',tipsEl.textContent="提示：启用后可通过 adb devices 查看。",targetPage="usbdebug.html"):"rebootbl"===action?(titleEl.textContent="重启到引导程序 (Bootloader)",descEl.innerHTML='设备将进入<span class="danger">引导加载程序</span>模式，此模式下正常功能不可用。除非执行底层刷机，否则请取消。',tipsEl.textContent="风险：进入后可能需要手动再次启动系统。",targetPage="reboot-bootloader.html"):(titleEl.textContent="无效操作",descEl.textContent="参数不正确。",document.getElementById("confirmButton").disabled=!0),document.getElementById("confirmButton").addEventListener("click",()=>{if("yes"!==confirmInput.value.toLowerCase())return confirmInput.focus(),void confirmInput.parentElement.classList.add("mdui-textfield-invalid");if(targetPage)if(embedded)try{parent.location.href=targetPage}catch(e){redirect(targetPage)}else redirect(targetPage)});</script><script src="js/mdui.min.js"></script></body></html>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>操作确认</title>
+    <link rel="stylesheet" href="css/mdui.min.css" />
+    <style>
+        body { margin:0; font-family: Roboto, 'Noto Sans SC', sans-serif; background:transparent; }
+        .wrap { padding:16px 20px 24px; }
+        h1 { font-size:18px; margin:0 0 12px; font-weight:500; }
+        p { margin:0 0 16px; line-height:1.5; }
+        .danger { color:#d32f2f; font-weight:500; }
+        form { display:flex; flex-direction:column; gap:12px; }
+        .tips { font-size:12px; color:#666; }
+        .actions { display:flex; gap:12px; }
+        .actions .mdui-btn { flex:1; }
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <h1 id="title">操作确认</h1>
+        <p id="desc"></p>
+        <form id="confirmForm" onsubmit="return false;">
+            <div class="mdui-textfield mdui-textfield-floating-label" id="inputField">
+                <label class="mdui-textfield-label">输入 yes 以继续</label>
+                <input class="mdui-textfield-input" type="password" id="confirmInput" autocomplete="off" />
+                <div class="mdui-textfield-error">请输入 yes</div>
+            </div>
+            <div class="actions">
+                <button type="button" id="confirmButton" class="mdui-btn mdui-ripple mdui-color-red">确认</button>
+            </div>
+            <div class="tips" id="extraTips"></div>
+        </form>
+    </div>
+
+    <script>
+    function qs(name){
+        const urlSearch = window.location.search.substring(1).split('&');
+        for(const kv of urlSearch){
+            const [k,v] = kv.split('=');
+            if(k===name) return decodeURIComponent(v||'');
+        }
+        return '';
+    }
+    function redirect(page){ window.location.href=page; }
+
+    const action = qs('url');
+    const embedded = qs('embedded')==='1';
+    const titleEl = document.getElementById('title');
+    const descEl = document.getElementById('desc');
+    const tipsEl = document.getElementById('extraTips');
+    const confirmInput = document.getElementById('confirmInput');
+
+    let targetPage='';
+    if(action==='usbdbg'){
+        titleEl.textContent='启用 USB 调试';
+        descEl.innerHTML='设备将<span class="danger">重启</span>并打开 USB 调试功能。继续之前请确保您了解 ADB 操作。';
+        tipsEl.textContent='提示：启用后可通过 adb devices 查看。';
+        targetPage='usbdebug.html';
+    } else if(action==='rebootbl'){
+        titleEl.textContent='重启到引导程序 (Bootloader)';
+        descEl.innerHTML='设备将进入<span class="danger">引导加载程序</span>模式，此模式下正常功能不可用。除非执行底层刷机，否则请取消。';
+        tipsEl.textContent='风险：进入后可能需要手动再次启动系统。';
+        targetPage='reboot-bootloader.html';
+    } else {
+        titleEl.textContent='无效操作';
+        descEl.textContent='参数不正确。';
+        document.getElementById('confirmButton').disabled=true;
+    }
+
+
+    document.getElementById('confirmButton').addEventListener('click',()=>{
+        if(confirmInput.value.toLowerCase()!=='yes'){
+            confirmInput.focus();
+            confirmInput.parentElement.classList.add('mdui-textfield-invalid');
+            return;
+        }
+        if(!targetPage) return;
+        if(embedded){
+            try{ parent.location.href = targetPage; }catch(e){ redirect(targetPage); }
+        } else {
+            redirect(targetPage);
+        }
+    });
+    </script>
+    <script src="js/mdui.min.js"></script>
+</body>
+</html>

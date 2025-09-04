@@ -1,6 +1,6 @@
 ﻿function request(param, callback){
 	var iAjax = $.ajax({
-		url: "http://192.168.100.1:80/ajax",
+		url: `http://${window.location.host}:80/ajax`,
 		data: JSON.stringify(param),
 		type: "post",
 		dataType: "json",
@@ -59,7 +59,7 @@
 
 function request2(param, callback) {
     var iAjax = $.ajax({
-        url: "http://192.168.100.1:80/ajax",
+        url: `http://${window.location.host}:80/ajax`,
         data: JSON.stringify(param),
         type: "post",
         dataType: "json",
